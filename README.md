@@ -9,7 +9,7 @@ We are proposing the development of a recommendation system, "CineLit," designed
 
 Figure 1: CineLit recommending the first Harry Potter book after the completion of the first movie. Additionally, the second movie is recommended following the order of the movie series.
 
-** Introduction **
+**Introduction**
 
 This project's recommendation engine directly tackles this issue by providing a solution for tailored content discovery. Users will benefit from a more simplified and pleasurable content discovery experience, in which movies and books are more closely aligned with their personal tastes and preferences.
 
